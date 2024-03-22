@@ -3,7 +3,7 @@
 
 #include <iostream>
 const int MAX = 16;
-//HOLA VICHITOS
+//HOLA BRO
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
