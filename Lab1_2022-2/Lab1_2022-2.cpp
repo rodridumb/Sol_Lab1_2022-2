@@ -3,7 +3,7 @@
 
 #include <iostream>
 const int MAX = 16;
-
+//COMENTARIO GOD
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
